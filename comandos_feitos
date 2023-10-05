@@ -1,0 +1,29 @@
+Instalando o typescript no node
+    npm i  typescript --save-dev
+
+Gerar o projeto typescript
+    npx tsc --init
+
+Rodando o programa
+    npx tsc
+
+Instalando biblioteca de testes
+    npm i -D jest @types/jest ts-node --save-dev
+
+Compilador feito em rust para compilar mais rapidamente
+    npm i -D @swc/jest @swc/cli @swc/core 
+
+Inicializar o jest
+    npx jest --init
+
+Rodando os teste
+    npm test
+
+Usando a biblioteca para geração de id unico
+    npm i uuid @types/uuid
+
+Instalando o bd sequelize
+    npm i sequelize reflect-metadate sequelize-typescript
+
+Instalando o SQLite
+    npm i sqlite3
